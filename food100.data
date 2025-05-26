@@ -1,0 +1,5 @@
+classes= 100
+train  = /FoodNet/Food100_YOLO_Tools-master/train.txt  
+valid  = /FoodNet/Food100_YOLO_Tools-master/test.txt  
+names = /FoodNet/Food100_YOLO_Tools-master/food100.names  
+backup = backup
